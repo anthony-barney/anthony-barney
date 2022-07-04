@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**anthony-barney/anthony-barney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="left">This is Anthony Barney, Senior React Native Mobile developer</h4>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rn-1211&label=Profile%20views&color=0e75b6&style=flat" alt="rn-1211" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Flutter**
+
+- 💬 Ask me about **Anything**
+
+<h5 align="left">Connect with me:</h5>
+
+- 📫 How to reach me **anthonybarney106@gmail.com**
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anthony-barney&theme=dark&hide_border=true" alt="anthony-barney" /></p>
